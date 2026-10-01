@@ -3,7 +3,7 @@ A PLC-based automation project for smart water supply management. This system in
 
 # Smart Water Supply Management System (PLC)
 
-**English Description:**
+**Logic:**
 This project presents a PLC-based automation system designed to manage the water supply for a building using two sources: the municipal water network and a rainwater harvesting tank. 
 
 **System Logic:**
