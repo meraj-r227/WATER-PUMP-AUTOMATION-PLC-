@@ -4,9 +4,7 @@ A PLC-based automation project for smart water supply management. This system in
 
 ## System Diagram
 
-![PLC Water Tank Control System](https://github.com/meraj-r227/WATER-PUMP-AUTOMATION-PLC-/blob/main/images/ChatGPT%20Image%20%DB%B1%DB%B0%20%D9%85%D9%87%D8%B1%20%DB%B1%DB%B4%DB%B0%DB%B5%D8%8C%20%DB%B1%DB%B0_%DB%B3%DB%B1_%DB%B1%DB%B0.png)
-
-
+![PLC Water Tank Control System](https://github.com/meraj-r227/WATER-PUMP-AUTOMATION-PLC-/blob/main/images/ChatGPT%20Image%20%DB%B1%DB%B0%20%D9%85%D9%87%D8%B1%20%DB%B1%DB%B4%DB%B0%DB%B5%D8%8C%20%DB%B1%DB%B0_%DB%B4%DB%B6_%DB%B0%DB%B0.png)
 # Smart Water Supply Management System (PLC)
 
 **Logic:**
